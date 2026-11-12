@@ -1,0 +1,10 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"EngineWire": "UnrealEditor-EngineWire.dll",
+		"EngineWireFab": "UnrealEditor-EngineWireFab.dll",
+		"EngineWireGameFeatures": "UnrealEditor-EngineWireGameFeatures.dll",
+		"EngineWireValidation": "UnrealEditor-EngineWireValidation.dll"
+	}
+}

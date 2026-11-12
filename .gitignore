@@ -6,3 +6,5 @@
 *.sln
 *.pdb
 Plugins/*/Intermediate/
+CLAUDE.md
+.claude/
